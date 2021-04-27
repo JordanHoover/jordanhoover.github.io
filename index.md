@@ -1,5 +1,5 @@
 
-## Welcome to the Jordan page on GitHub pages
+## Welcome to the Jordan's page on GitHub pages
 
 You can use the [editor on GitHub](https://github.com/JordanHoover/jordanhoover.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
